@@ -2,7 +2,9 @@
 /dist
 /node_modules
 /build
-
+.dockerignore
+docker-composure.yml
+docker-composure.prod.yml
 # Logs
 logs
 *.log
